@@ -1,19 +1,46 @@
 {
-  "posts": [
+  "fruits": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Apple",
+      "price":"100",
+      "SKU":"1-202",
+      "image":"https://i0.wp.com/loseitblog.com/wp-content/uploads/2014/09/istock_000014459318_double.jpg?ssl=1"
     },
     {
       "id": 2,
-      "title": "Welcome"
+      "name": "Grapes",
+      "price":"60",
+      "SKU":"1-203",
+      "image":"https://images.ctfassets.net/cnu0m8re1exe/6uSVPiUx1FloQ23j38x2aM/0eafe5c0d6b3ce7e3aae6b389a997423/Grapes.jpg"
     },
     {
       "id": 3,
-      "title": "Welcome"
+      "name": "Banana",
+      "price":"50",
+      "SKU":"1-205",
+      "image":"https://img1.mashed.com/img/gallery/heres-what-happens-when-you-eat-a-banana-every-day/intro-1596497583.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pineapple",
+      "price":"30",
+      "SKU":"1-210",
+      "image":"https://5.imimg.com/data5/PW/ND/MY-46595757/fresh-pineapple-281kg-29-500x500.png"
+    },
+    {
+      "id": 5,
+      "name": "Kiwi",
+      "price":"120",
+      "SKU":"1-212",
+      "image":"https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Kiwi-fruits-582a07b.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cherry",
+      "price":"140",
+      "SKU":"1-214",
+      "image":"https://i2.wp.com/riveridgeproduce.com/wp-content/uploads/2017/05/cherries.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
