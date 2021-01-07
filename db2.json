@@ -1,1 +1,53 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Pant",
+      "type":"Jeans",
+      "price":"2400",
+      "SKU":"1-202",
+      "image":"https://image.shutterstock.com/image-photo/blue-jeans-row-denim-texture-260nw-523929484.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Shirt",
+      "model":"Formal",
+      "price":"600",
+      "SKU":"1-203",
+      "image":"https://m.media-amazon.com/images/I/41CKewPXpDL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "T shirt",
+      "model":"Long sleeve",
+      "price":"500",
+      "SKU":"1-205",
+      "image":"https://images.bestsellerclothing.in/data/JJ/04-08-2019/12152356-Black_8.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pant",
+      "model":"angle",
+      "price":"1200",
+      "SKU":"1-210",
+      "image":"https://5.imimg.com/data5/IR/WN/ZH/SELLER-16544583/nero-ladies-pant-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Churidar",
+      "model":"Long",
+      "price":"1100",
+      "SKU":"1-212",
+      "image":"https://cdn.shopify.com/s/files/1/0876/4704/products/orange-cotton-silk-kurta-with-churidar-suit-devnaagri-688846.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Palazza",
+      "model":"full",
+      "price":"1400",
+      "SKU":"1-214",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71LUDcnf8zL._UY550_.jpg"
+    }
+  ]
+}
 
